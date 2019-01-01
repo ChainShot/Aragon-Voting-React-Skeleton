@@ -1,0 +1,17 @@
+{
+  "appName": "foo.aragonpm.eth",
+  "version": "1.0.0",
+  "roles": [
+    {
+      "name": "Create new votes",
+      "id": "CREATE_VOTES_ROLE",
+      "params": []
+    },
+    {
+      "name": "Cast a vote",
+      "id": "CAST_VOTES_ROLE",
+      "params": []
+    }
+  ],
+  "path": "contracts/Voting.sol"
+}
